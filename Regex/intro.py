@@ -15,5 +15,5 @@ import re
 
 with open("test-file.txt", "r") as text:
 	pin = re.sub('Pin:\s([0-9]+)','Pin: 9932', text.read())
-	print(pin)
 text.close()
+print(pin)
