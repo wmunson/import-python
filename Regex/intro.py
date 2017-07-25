@@ -1,7 +1,7 @@
 import re
 
-# file_text = open("test-file.txt")
-# print(file_text.read())
+# text = open("test-file.txt")
+# print(text.read())
 
 # with open("test-file.txt", "r") as text:
 # 	policy = re.search(r'Policy Number:\s+[0-9]+', text.read())
