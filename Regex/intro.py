@@ -1,5 +1,10 @@
 import re
 
+# ^[0-9]*$
+# ^[0-9]{2}/[0-9]{2}/[0-9]{2,4}$
+# \d{1,3}(?:\s[a-zA-Z]+)+,(?:\s[a-zA-Z]+)+
+# ([0-9])\1
+
 # text = open("test-file.txt")
 # print(text.read())
 

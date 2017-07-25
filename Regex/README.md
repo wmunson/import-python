@@ -2,7 +2,7 @@
 
 ### Python 're' module
 
-#### Link to Documentation
+#### Links to Documentation/Sources
 ```
 https://docs.python.org/3.3/library/re.html?highlight=regex#re.regex.findall
 
@@ -46,7 +46,7 @@ examples:
 - ```\W``` anything but a character
 - ```\b``` the white space around words
 - ```\.``` a period
-
+- ```\1``` repeating char
 
 
 ### White Space Characters
