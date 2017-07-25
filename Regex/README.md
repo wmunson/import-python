@@ -16,10 +16,10 @@ http://www.diveintopython3.net/regular-expressions.html
 import re
 ```
 examples:
-- re.findall()
-- re.split()
-- re.search()
-- re.match()
+- ```re.findall()```
+- ```re.split()```
+- ```re.search()```
+- ```re.match()```
 
 ### Special Characters:
 
@@ -38,30 +38,30 @@ examples:
 
 ### Identifiers:
 
-- \d any number
-- \D anything but a number
-- \s space
-- \S anything but a space
-- \w any character
-- \W anything but a character
-- \b the white space around words
-- \. a period
+- ```\d``` any number
+- ```\D``` anything but a number
+- ```\s``` space
+- ```\S``` anything but a space
+- ```\w``` any character
+- ```\W``` anything but a character
+- ```\b``` the white space around words
+- ```\.``` a period
 
 
 
 ### White Space Characters
 
-- \n new line
-- \s space
-- \t tab
-- \e escape
-- \f form feed
-- \r return
+- ```\n``` new line
+- ```\s``` space
+- ```\t``` tab
+- ```\e``` escape
+- ```\f``` form feed
+- ```\r``` return
 
 
 ### Additional Info
 
-- ., +, *, ?, [], $, ^, (), {}, |, \ all have to be escaped.
+- ```., +, *, ?, [], $, ^, (), {}, |, \``` all have to be escaped.
 
 ### Reading .txt file
 
@@ -69,9 +69,9 @@ examples:
 https://docs.python.org/3/library/functions.html#open
 ```
 
-```var = open("textfile","mode")```
-```var.close()```  
-important to close after finished to preserve memory
+- ```var = open("textfile","mode")```
+- ```var.close()```  
+*important to close after finished to preserve memory
 
 #### Open Modes
 
