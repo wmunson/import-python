@@ -29,7 +29,7 @@ examples:
 - '*' Match 0 or more (all)
 - '+' Match 1 or more i.e. ```ab+``` the occurance of ```'ab'```,```'abb'```,```'abbbbb'```, etc in line
 - '?' Match 0 or 1 i.e.  ```ab?``` will match either ```'a'``` or ```'ab'``` ('b' is optional because '?'' modifies 'b')
-- '*?','+?','??' The '*', '+', and '?' qualifiers are all greedy; they match as much text as possible. Sometimes this behaviour isn’t desired; if the RE <.*> is matched against "<H1>title</H1>", it will match the entire string, and not just '<H1>'. Adding '?' after the qualifier makes it perform the match in non-greedy or minimal fashion; as few characters as possible will be matched
+- '*?','+?','??' The '*', '+', and '?' qualifiers are all greedy; they match as much text as possible. Sometimes this behaviour isn’t desired; if the RE <.*> is matched against <H1>title</H1>, it will match the entire string, and not just '<H1>'. Adding '?' after the qualifier makes it perform the match in non-greedy or minimal fashion; as few characters as possible will be matched
 - {n} matches exactly number n time of occurance i.e ```ab{5}``` will match ONLY if ```'ab'``` appeares 6 times 
 - {m,n} Match m to n number of times (can be any range of digits) ie ```ab{1,3}``` matches 1 to 3 occurances of ```'ab'```
 - '[]' range or variance i.e. [A-Z], [a-zA-Z0-9]
