@@ -18,7 +18,20 @@ import re
 # 	print(claim.group())
 # text.close()
 
-with open("test-file.txt", "r") as text:
-	pin = re.sub('Pin:\s([0-9]+)','Pin: 9932', text.read())
-text.close()
-print(pin)
+
+def random_fun(inpu):
+	'do somehting'
+	return something
+
+
+
+def bigger-function():
+	pass
+
+old_list = open('text.txt','r')
+old_list.close()
+new_list=[]
+
+for string in old_list:
+	new_list.append(string.split())
+

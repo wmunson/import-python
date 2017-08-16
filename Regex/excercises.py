@@ -16,15 +16,15 @@
 
 
 # Ex 4:
-# locate and print Claim Number
-
-
-# Ex 5:
 # locate and print Address
 
 
-# Ex 6:
+# Ex 5:
 # locate and print Date and Time of Accident
+
+
+# Ex 6:
+# Locate all 'Claim Numbers' in file that follow the format LL-######:#L
 
 
 # Ex 7:

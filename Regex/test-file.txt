@@ -5,14 +5,14 @@ a. The claim form is to be duly filled and signed by the insured.
 b. All facts and statements must be factual not influenced or biased in any favor.
 c. The damaged vehicle must be parked at safe place to avoid any subsequent loss/Theft 
 
-POLICY INFORMATION
+X-POLICY INFORMATION-X
 
 Policy Number:  89512
-Claim Number: PF-215536
+Insurer Claim Number: PF-215536:2H
 Vehicle Number: 8563628495999273 
 Insured Details: Simple Collison Coverage
 
-PARTICIPANTS INFORMATION
+X-PARTICIPANTS INFORMATION-X
 
 Please fill in your current correspondence address. Where you want us to send letters/communication for this claim.
 Name: Sterling Archer
@@ -23,10 +23,12 @@ Mobile: (555)295-3112
 Landline: NA 
 Email: archer@isis.com
 ID: The Dutchess
+Participants Claim Number: HR-286536:8G
 Date and Time of Accident: Jan 1 2011, 8:35am ET
 
-ACCIDENT INFORMATION
+X-ACCIDENT INFORMATION-X
 
+Reporters Claim Number: HI-967254:9V
 Place of accident: Mulligan's Bar  
 Type of Loss: Vehicle Damage 
 Own Damage: Yes
@@ -35,7 +37,7 @@ Police Report Details, If any: Suspect was clearly intoxicated upon arrival
 
 *Please fill the details overleaf for third party damage. 
 Declaration 
-I/We hereby declare that the details given above are true and correct to the best of my belief and knowledge. In the event  above information or any part thereof is found incorrect, I agree that all right under the policy will be forfeited: 
+I/We hereby declare that the details given above are true and correct to the best of my belief and knowledge. In the event above information or any part thereof is found incorrect, I agree that all right under the policy will be forfeited: 
 X
 I also declare that there was/ was no third party bodily injury or property damage involve in accident: 
 X
